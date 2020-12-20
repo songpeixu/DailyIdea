@@ -1,0 +1,2 @@
+# DailyIdea
+record daily idea
